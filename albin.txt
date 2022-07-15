@@ -1,3 +1,7 @@
 bol
 
+<<<<<<< HEAD
 From main
+=======
+Technical guru ji
+>>>>>>> feature

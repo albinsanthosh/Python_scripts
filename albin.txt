@@ -1,7 +1,8 @@
 bol
 
-<<<<<<< HEAD
 From main
-=======
+
 Technical guru ji
->>>>>>> feature
+
+
+Tumara name kya heim
